@@ -1,0 +1,5 @@
+Notification Library in Javascript: notie (ALternative notify tool: https://sciactive.com/pnotify/)
+Notification Library in Javascript: sweetalart2 https://github.com/sweetalert2/sweetalert2
+
+
+Pure VanilaJS Date Picker: https://mymth.github.io/vanillajs-datepicker/
